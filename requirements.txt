@@ -1,0 +1,23 @@
+# Core RAG stack
+langchain
+langchain-community
+langchain-huggingface
+langchain-text-splitters
+langchain-core
+
+# Embeddings & vector store
+sentence-transformers
+faiss-cpu
+
+# HuggingFace Inference API
+huggingface_hub
+
+# HTML parsing / data cleaning
+beautifulsoup4
+
+# UI
+streamlit
+
+# Utilities
+tqdm
+python-dotenv
